@@ -20,8 +20,7 @@ UpdateChecker.init(this, 12038).requestUpdateCheck().whenComplete((result, excep
         return;
     }
 
-    UpdateReason reason = result.getReason();
-    switch(reason){
+    switch(result.getReason()){
       case UP_TO_DATE:{
         this.getLogger().info(String.format("Your version of VeinMiner (%s) is up to date!", result.getNewestVersion()));
         break;
