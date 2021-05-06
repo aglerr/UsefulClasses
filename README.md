@@ -1,5 +1,10 @@
 # UsefulClasses
 Classes that are useful for minecraft spigot development (at least for me)
+Current Class:<br>
+<ul>
+    <li>UpdateChecker</li>
+    <li>ConfigUpdater</li>
+</ul>
 
 # UpdateChecker (by Choco)
 <b>Original Link</b>: https://www.spigotmc.org/threads/an-actually-decent-plugin-update-checker.344327/ <br>
