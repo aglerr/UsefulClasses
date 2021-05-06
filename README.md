@@ -1,6 +1,7 @@
 # UsefulClasses
-Classes that are useful for minecraft spigot development (at least for me)
-Current Class:<br>
+Classes that are useful for minecraft spigot development (at least for me)<br>
+<br>
+<b>Current Class:</b><br>
 <ul>
     <li>UpdateChecker</li>
     <li>ConfigUpdater</li>
