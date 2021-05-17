@@ -1,6 +1,11 @@
 # UsefulClasses
 Classes that are useful for minecraft spigot development (at least for me)<br>
 <br>
+Useful Links:<br>
+<ul>
+    <li>DeluxeMenus Menu Creator: https://devmc.org/en/dm-constructor</li>
+</ul>
+<br>
 <b>Current Class:</b><br>
 <ul>
     <li>UpdateChecker</li>
